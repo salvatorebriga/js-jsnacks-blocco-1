@@ -1,0 +1,2 @@
+- creare un'iterazione definita che giri per 10 volte con un prompt in parse int che si sommi al valore attuale più il valore nuovo
+- stampare il risultato
