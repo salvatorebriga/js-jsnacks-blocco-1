@@ -1,7 +1,7 @@
 "use strict"
 
-let parola1 = prompt();
-let parola2 = prompt();
+const parola1 = prompt();
+const parola2 = prompt();
 
 if(parola1.length > parola2.length){
     console.log(parola1);
